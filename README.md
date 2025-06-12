@@ -1,4 +1,18 @@
-This repository contains all the code used in the Homework 4 of the Field and Servive Robotic Couse. The videos related to the quadruped simulation can be found in the 'media' directory
+This repository contains all the code used in the Homework 4 of the Field and Servive Robotic Couse
+### Gallop
+![Gallop](./media/gallop.gif)
+
+### Crawl
+![Crawl](./media/crawl.gif)
+
+### Trot & Run
+![Trot & Run](./media/trot_run.gif)
+
+### Pacing 1
+![Pacing 1](./media/pacing_1.gif)
+
+### Pacing 0.7
+![Pacing 0.7](./media/pacing_07.gif)
 
 
 
