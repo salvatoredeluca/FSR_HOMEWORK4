@@ -1,6 +1,7 @@
 This repository contains all the code used in the Homework 4 of the Field and Servive Robotic Couse
 ### Gallop
-![Gallop](./media/gallop.gif)
+
+![](https://github.com/salvatoredeluca/FSR_HOMEWORK4/media/gallop.gif)
 
 ### Crawl
 ![Crawl](./media/crawl.gif)
