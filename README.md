@@ -10,10 +10,10 @@ This repository contains all the code used in the Homework 4 of the Field and Se
 ### Trot & Run Gait
 ![](https://raw.githubusercontent.com/salvatoredeluca/FSR_HOMEWORK4/main/media/trot_run.gif.gif)
 
-### Pacing with &mu=1
+### Pacing with  μ=1
 ![](https://raw.githubusercontent.com/salvatoredeluca/FSR_HOMEWORK4/main/media/pacing_1.gif.gif)
 
-### Pacing with &mu=0.7
+### Pacing with  μ=0.7
 ![](https://raw.githubusercontent.com/salvatoredeluca/FSR_HOMEWORK4/main/media/pacing_07.gif.gif)
 
 
