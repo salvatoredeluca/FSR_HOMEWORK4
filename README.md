@@ -1,4 +1,4 @@
-This repository contains all the code used in the Homework 4 of the Field and Servive Robotic Couse
+This repository contains all the code used in the Homework 4 of the Field and Servive Robotic Course. In the following it's possible to see some of the gaits analyzed:
 ### Gallop Gait
 
 ![](https://raw.githubusercontent.com/salvatoredeluca/FSR_HOMEWORK4/main/media/gallop.gif.gif)
